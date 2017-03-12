@@ -12,3 +12,11 @@ p
 .lorem{
     font-size: 20px;
 }
+
+p#pierwszy, a {
+    color: lime; 
+}
+
+div#elementy-potomne > p {
+    background-color: aqua;
+}
