@@ -3,7 +3,12 @@ p
     background-color: blanchedalmond;
     padding: 10px 30px;
 }
+
 #pan-tadeusz {
     background-color: darkgrey;
     color: yellow;
+}
+
+.lorem{
+    font-size: 20px;
 }
